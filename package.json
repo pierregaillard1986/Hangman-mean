@@ -17,7 +17,8 @@
     "jsonwebtoken": "",
     "method-override": "",
     "mongoose": "",
-    "morgan": ""
+    "morgan": "",
+    "random-word-fr": "^1.0.3"
   },
   "devDependencies": {
     "babel-cli": "^6.9.0",
